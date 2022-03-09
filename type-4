@@ -1,0 +1,7 @@
+# STRING ARRAY
+public static void main(String[] args) 
+{
+String arr1[]= {"NAME1","NAME2",NAME3"};
+System.out.println(arr1.length);
+System.out.println(arr1[0]);
+}
